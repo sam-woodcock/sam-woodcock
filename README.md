@@ -1,16 +1,35 @@
-### Hi there 👋
+## [![Sam Woodcock's header](https://pbs.twimg.com/profile_banners/318003682/1564479778/1500x500)](https://samwoodcock.co.uk)
 
-<!--
-**sam-woodcock/sam-woodcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://twitter.com/NoCheeseGromit"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samueljwoodcock/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Hello there! My name is Sam Woodcock. 👋🤓</h2>
+<p align="center">I'm a Full Stack Developer, Graphic Designer from Coventry.
+I'm also currently Working for Glide Group.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+
+</p>
+
+### 💼 Where am currently working at/as
+- [Software Developer](https://glidegroup.co.uk)
+- [Web Developer](https://www.m69.co.uk) *previous Role*
+- [Software Developer](https://intouchcrm.co.uk) *previous Role*
+- [Software Developer](https://keynetix.com) *previous Role*
+- [Software Developer](https://nfopp.co.uk) *previous Role*
+- [System Developer](https://ges.com) *previous Role*
+- [Graphic Designer](https://delcam.com) *previous Role*
+
+### 💻 What am currently working on
+- Group Wholesale Portal ♡
+- BSS/OSS Systems ♡
+- ServiceNow Intergrations ♡
+- Various other internal Projects ♡ 
+
+
+
+
+<h4 align="center">From <a href="https://github.com/sam-woodcock/sam-woodcock"> Sam Woodcock's Github Profile Readme MD</a></h4>
