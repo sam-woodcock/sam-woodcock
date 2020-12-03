@@ -15,7 +15,7 @@ I'm also currently Working for Glide Group.
 </p>
 
 ### 💼 Where am currently working at/as
-- [Software Developer](https://glidegroup.co.uk)
+- [Senior Software Developer](https://glidegroup.co.uk)
 - [Web Developer](https://www.m69.co.uk) *previous Role*
 - [Software Developer](https://intouchcrm.co.uk) *previous Role*
 - [Software Developer](https://keynetix.com) *previous Role*
