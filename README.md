@@ -15,7 +15,8 @@ I'm also currently Working for Glide Group.
 </p>
 
 ### 💼 Where am currently working at/as
-- [IT Manager](https://ctglobal-freightaudit.com/) 
+- [Lead Developer[(vitrifi.net) * current Role
+- [IT Manager](https://ctglobal-freightaudit.com/) *previous Role*
 - [Senior Software Developer](https://glidegroup.co.uk) *previous Role*
 - [Web Developer](https://www.m69.co.uk) *previous Role*
 - [Software Developer](https://intouchcrm.co.uk) *previous Role*
