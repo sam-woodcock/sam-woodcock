@@ -7,7 +7,7 @@
 
 <h2 align="center">Hello there! My name is Sam Woodcock. 👋🤓</h2>
 <p align="center">I'm a Full Stack Developer, Graphic Designer from Coventry.
-I'm also currently Working for Glide Group.
+I'm also currently Working for Vitrifi.
 </p>
 
 <p>
@@ -31,6 +31,6 @@ I'm also currently Working for Glide Group.
 - ServiceNow Intergrations ♡
 - Various other internal Projects ♡ 
 
-
+- Secret stuff ♡
 
 
